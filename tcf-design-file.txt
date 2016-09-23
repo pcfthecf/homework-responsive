@@ -1,0 +1,21 @@
+*********
+
+GOOGLE FONT FAMILIES
+1) Open Sans – light, light italic, regular, semi-bold, extra bold
+2) Abril Fatface
+
+COLORS
+Blue – rgba(4, 148, 215, 1.00)
+White – rgba(255, 255, 255, 1.00)
+Gray – rgba(230, 230, 230, 1.00)
+Black – rgba(0, 0, 0, 1.00)
+
+SECTIONS
+Fixed Logo – link to main company site (www.thecreativefountain.com)
+Header – on-brand font with emphasis (Abril Fatface)
+Tagline
+Services – headline, unordered list, remove bullet points
+Portfolio – setup 'button' to new page (will be link to 'blog' assignment page)
+About
+Contact – setup 'button' to new page / contact form
+Footer – links to online profiles
